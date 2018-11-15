@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ikanalyzer/ikanalyzer.iml" filepath="$PROJECT_DIR$/ikanalyzer/ikanalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucenesearch/lucenesearch.iml" filepath="$PROJECT_DIR$/lucenesearch/lucenesearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solrsearch/solrsearch.iml" filepath="$PROJECT_DIR$/solrsearch/solrsearch.iml" />
+    </modules>
+  </component>
+</project>
